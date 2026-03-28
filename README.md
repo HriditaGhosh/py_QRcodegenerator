@@ -33,4 +33,4 @@ Steps:
 1. Go to **Releases**  
 2. Download the `.exe` file  
 3. Double-click to run   
-https://github.com/HriditaGhosh/py_QRcodegenerator/blob/73f67d9760619d4ffbf7d0543acb475c244890b3/1af18170-2838-46a6-9a98-7d7425b3bbf5.jpg
+![image alt](https://github.com/HriditaGhosh/py_QRcodegenerator/blob/73f67d9760619d4ffbf7d0543acb475c244890b3/1af18170-2838-46a6-9a98-7d7425b3bbf5.jpg)
