@@ -32,6 +32,8 @@ A simple Python Tkinter-based GUI application to generate and scan QR codes with
 Steps:  
 1. Go to **Releases**  
 2. Download the `.exe` file  
-3. Double-click to run   
+3. Double-click to run
+
+![image alt](https://github.com/HriditaGhosh/py_QRcodegenerator/blob/b8e9025f4e93be68d1203a9e65bdbe5d141f8f3a/8d3ff0bc-39d0-4f3a-b859-39bdf2df770b.jpg)
 ![image alt](https://github.com/HriditaGhosh/py_QRcodegenerator/blob/73f67d9760619d4ffbf7d0543acb475c244890b3/1af18170-2838-46a6-9a98-7d7425b3bbf5.jpg)
 ![image alt](https://github.com/HriditaGhosh/py_QRcodegenerator/blob/b4e4d2adede6504d180503ad50d0bcfb28c4f189/b0382361-58ff-4d20-ab40-337ad3a857f9.jpg)
